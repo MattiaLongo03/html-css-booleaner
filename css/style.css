@@ -4,7 +4,7 @@ body{
 
 
 div{
-    background-image: url(img/pattern.png);
+    background-image: url(..img/pattern.png);
     background-repeat: repeat;
     background-color: lightblue;
     margin: 0px;
@@ -71,12 +71,12 @@ h3{
 }
 
 .foto1{
-    background-image: url(img/monitor.jpg);
+    background-image: url('..img/monitor.jpg');
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
 .foto2{
-    background-image: url(img/graph.jpg);
+    background-image: url(..img/graph.jpg);
     margin-top: 5px;
 }
